@@ -16,17 +16,6 @@ This is a Python-based console application that simulates a virtual pet. The use
 - Daily status report and feedback
 - Modularized design using multiple `.py` files
 
-## Project Structure
-
-virtual_pet/
-├── main.py # Main game loop and user command handling
-├── creature.py # Virtual pet class with all state logic
-├── logger.py # Logs daily pet status to a text file
-├── environment.py # Optional: Adds environmental effects (e.g., weather)
-├── personality.py # Optional: Adds pet personality traits
-
-
-
 ## Commands
 
 - `bathe` – Clean your pet and improve interaction
